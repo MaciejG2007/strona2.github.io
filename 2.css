@@ -1,0 +1,40 @@
+#górny
+{
+    text-align: center;
+
+}
+#text1
+{
+    color: red;
+    font-size: 500%;
+}
+body 
+{
+    background-image: url('responsive-backround-12.jpg');
+}
+#text
+{
+    text-indent: 50px;
+    font-size: 25px;
+}
+#panel_lewy
+{
+    float: left;
+    width: 33%;
+}
+#panel_środkowy
+{
+    float: left;
+    width: 34%;
+}
+#panel_prawy
+{
+    float: left;
+    width: 33%;
+}
+#stopka
+{
+    clear: both;
+    font-size: 35px;
+    text-align: center;
+}
